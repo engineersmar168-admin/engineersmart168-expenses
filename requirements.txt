@@ -1,0 +1,7 @@
+fastapi
+unicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-dotenv
+python-multiparty 
+jinja2
